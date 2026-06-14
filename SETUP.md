@@ -1,24 +1,24 @@
 # Setup — make this Profile README live
 
 Your README only shows on your GitHub profile if it lives in a **special repo whose
-name is exactly your username**. For you that means a repo called **`Harini`**
-owned by the account **`Harini`** → `github.com/Harini/Harini`.
+name is exactly your username**. For you that means a repo called **`Harini7798`**
+owned by the account **`Harini7798`** → `github.com/Harini7798/Harini7798`.
 
 > ⚠️ The username must match **exactly** (case doesn't matter for the URL, but the
-> repo name must equal the account name). If your real handle isn't `Harini`,
-> rename the repo to match and update the two `Harini/Harini` URLs in `README.md`.
+> repo name must equal the account name). If your real handle isn't `Harini7798`,
+> rename the repo to match and update the two `Harini7798/Harini7798` URLs in `README.md`.
 
 ---
 
 ## 1. Create the special repo
 
 1. Go to https://github.com/new
-2. **Repository name:** `Harini`  ← must equal your username
+2. **Repository name:** `Harini7798`  ← must equal your username
 3. Set it to **Public**
 4. ✅ Check **"Add a README file"** (you'll overwrite it)
 5. Click **Create repository**
 
-GitHub will show a little hint: *"You found a secret! Harini/Harini is a special
+GitHub will show a little hint: *"You found a secret! Harini7798/Harini7798 is a special
 repository…"* — that confirms it's the right one.
 
 ## 2. Push these files
@@ -30,7 +30,7 @@ git init
 git add .
 git commit -m "retro profile readme + snake"
 git branch -M main
-git remote add origin https://github.com/Harini/Harini.git
+git remote add origin https://github.com/Harini7798/Harini7798.git
 git push -u origin main --force   # --force only because step 1 made an initial commit
 ```
 
