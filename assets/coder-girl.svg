@@ -1,0 +1,203 @@
+<svg viewBox="0 0 480 300" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges" role="img" aria-label="Pixel art of a curly-haired girl stressing to code with coffee at her PC">
+  <!-- ===== backdrop ===== -->
+  <rect x="0" y="0" width="480" height="300" fill="#0d1117"/>
+  <rect x="0" y="0" width="480" height="6" fill="#1f2a3a"/>
+  <rect x="0" y="294" width="480" height="6" fill="#1f2a3a"/>
+  <rect x="0" y="0" width="6" height="300" fill="#1f2a3a"/>
+  <rect x="474" y="0" width="6" height="300" fill="#1f2a3a"/>
+
+  <!-- ===== night window ===== -->
+  <rect x="30" y="30" width="84" height="72" fill="#0a1b33"/>
+  <rect x="30" y="30" width="84" height="6" fill="#243b5e"/>
+  <rect x="30" y="30" width="6" height="72" fill="#243b5e"/>
+  <rect x="108" y="30" width="6" height="72" fill="#243b5e"/>
+  <rect x="30" y="96" width="84" height="6" fill="#243b5e"/>
+  <rect x="30" y="63" width="84" height="6" fill="#243b5e"/>
+  <rect x="69" y="30" width="6" height="72" fill="#243b5e"/>
+  <rect x="84" y="42" width="18" height="6" fill="#e7ecf3"/>
+  <rect x="84" y="48" width="6" height="6" fill="#e7ecf3"/>
+  <rect x="96" y="48" width="6" height="6" fill="#e7ecf3"/>
+  <rect x="42" y="42" width="6" height="6" fill="#8fb4ff"><animate attributeName="opacity" values="1;0.2;1" dur="2.2s" repeatCount="indefinite"/></rect>
+  <rect x="54" y="78" width="6" height="6" fill="#8fb4ff"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" repeatCount="indefinite"/></rect>
+  <rect x="90" y="84" width="6" height="6" fill="#8fb4ff"><animate attributeName="opacity" values="1;0.3;1" dur="3.1s" repeatCount="indefinite"/></rect>
+
+  <!-- ===== desk ===== -->
+  <rect x="6" y="240" width="468" height="54" fill="#141a26"/>
+  <rect x="6" y="234" width="468" height="6" fill="#2a3445"/>
+
+  <!-- ===== monitor ===== -->
+  <rect x="372" y="210" width="12" height="18" fill="#2a3445"/>
+  <rect x="354" y="228" width="48" height="6" fill="#2a3445"/>
+  <rect x="300" y="90" width="156" height="120" fill="#2a3445"/>
+  <rect x="306" y="96" width="144" height="108" fill="#11161f"/>
+  <rect x="312" y="102" width="132" height="96" fill="#0a0e17"/>
+  <rect x="318" y="108" width="24" height="6" fill="#c792ea"/>
+  <rect x="348" y="108" width="42" height="6" fill="#82aaff"/>
+  <rect x="396" y="108" width="18" height="6" fill="#c3e88d"/>
+  <rect x="324" y="120" width="30" height="6" fill="#82aaff"/>
+  <rect x="360" y="120" width="54" height="6" fill="#b2ccd6"/>
+  <rect x="324" y="132" width="18" height="6" fill="#ffcb6b"/>
+  <rect x="348" y="132" width="48" height="6" fill="#c3e88d"/>
+  <rect x="330" y="144" width="66" height="6" fill="#546e7a"/>
+  <rect x="318" y="156" width="24" height="6" fill="#c792ea"/>
+  <rect x="348" y="156" width="36" height="6" fill="#82aaff"/>
+  <rect x="324" y="168" width="24" height="6" fill="#b2ccd6"/>
+  <rect x="354" y="168" width="6" height="6" fill="#22d3ee">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+  <rect x="312" y="102" width="132" height="96" fill="#22d3ee" opacity="0.05">
+    <animate attributeName="opacity" values="0.05;0.09;0.04;0.07;0.05" dur="3.5s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- ===== chair back ===== -->
+  <rect x="138" y="156" width="108" height="12" fill="#1b2230"/>
+  <rect x="150" y="156" width="84" height="84" fill="#222c3c"/>
+
+  <!-- ===== coffee mug + blocky steam ===== -->
+  <rect x="72" y="198" width="6" height="6" fill="#e7ecf3"><animate attributeName="y" values="198;174" dur="2.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="2.6s" repeatCount="indefinite"/></rect>
+  <rect x="84" y="198" width="6" height="6" fill="#e7ecf3"><animate attributeName="y" values="198;174" dur="2.6s" begin="0.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="2.6s" begin="0.9s" repeatCount="indefinite"/></rect>
+  <rect x="96" y="198" width="6" height="6" fill="#e7ecf3"><animate attributeName="y" values="198;174" dur="2.6s" begin="1.7s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="2.6s" begin="1.7s" repeatCount="indefinite"/></rect>
+  <rect x="66" y="204" width="36" height="30" fill="#ef4444"/>
+  <rect x="66" y="204" width="36" height="6" fill="#f87171"/>
+  <rect x="102" y="210" width="6" height="6" fill="#ef4444"/>
+  <rect x="108" y="216" width="6" height="6" fill="#ef4444"/>
+  <rect x="102" y="222" width="6" height="6" fill="#ef4444"/>
+
+  <!-- ===== keyboard ===== -->
+  <rect x="150" y="228" width="120" height="12" fill="#2a3445"/>
+  <rect x="156" y="231" width="6" height="6" fill="#3b4759"/>
+  <rect x="168" y="231" width="6" height="6" fill="#3b4759"/>
+  <rect x="180" y="231" width="6" height="6" fill="#3b4759"/>
+  <rect x="192" y="231" width="6" height="6" fill="#3b4759"/>
+  <rect x="204" y="231" width="6" height="6" fill="#3b4759"/>
+  <rect x="216" y="231" width="6" height="6" fill="#3b4759"/>
+  <rect x="228" y="231" width="6" height="6" fill="#3b4759"/>
+  <rect x="240" y="231" width="6" height="6" fill="#3b4759"/>
+  <rect x="252" y="231" width="6" height="6" fill="#3b4759"/>
+
+  <!-- ===================== GIRL ===================== -->
+  <!-- neck -->
+  <rect x="186" y="150" width="24" height="12" fill="#e8b894"/>
+  <rect x="186" y="156" width="24" height="6" fill="#d49b73"/>
+
+  <!-- hoodie: sloped shoulders + torso -->
+  <rect x="174" y="156" width="48" height="6" fill="#0f9b8e"/>
+  <rect x="162" y="162" width="72" height="6" fill="#14b8a6"/>
+  <rect x="150" y="168" width="84" height="72" fill="#14b8a6"/>
+  <rect x="222" y="168" width="12" height="72" fill="#0f9b8e"/>
+  <!-- collar V -->
+  <rect x="186" y="162" width="24" height="6" fill="#0f9b8e"/>
+  <rect x="192" y="168" width="12" height="6" fill="#0d7d72"/>
+  <!-- drawstrings -->
+  <rect x="186" y="168" width="6" height="18" fill="#e7ecf3"/>
+  <rect x="204" y="168" width="6" height="18" fill="#e7ecf3"/>
+  <rect x="186" y="186" width="6" height="6" fill="#cbd5e1"/>
+  <rect x="204" y="186" width="6" height="6" fill="#cbd5e1"/>
+  <!-- front pocket -->
+  <rect x="168" y="204" width="48" height="24" fill="#0f9b8e"/>
+  <rect x="168" y="204" width="48" height="6" fill="#0d7d72"/>
+
+  <!-- upper arms (shoulder -> forearm) -->
+  <rect x="150" y="174" width="18" height="48" fill="#0f9b8e"/>
+  <rect x="216" y="174" width="18" height="48" fill="#0f9b8e"/>
+
+  <!-- left forearm + hand (types) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 3;0 0" dur="0.42s" repeatCount="indefinite"/>
+    <rect x="156" y="216" width="36" height="12" fill="#14b8a6"/>
+    <rect x="180" y="222" width="18" height="12" fill="#e8b894"/>
+  </g>
+  <!-- right forearm + hand (types, offset) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 3;0 0" dur="0.42s" begin="0.21s" repeatCount="indefinite"/>
+    <rect x="198" y="216" width="36" height="12" fill="#14b8a6"/>
+    <rect x="204" y="222" width="18" height="12" fill="#e8b894"/>
+  </g>
+
+  <!-- head -->
+  <rect x="168" y="108" width="54" height="48" fill="#e8b894"/>
+  <rect x="174" y="144" width="42" height="6" fill="#d49b73"/>
+  <rect x="168" y="150" width="6" height="6" fill="#0d1117"/>
+  <rect x="216" y="150" width="6" height="6" fill="#0d1117"/>
+  <!-- ears -->
+  <rect x="162" y="126" width="6" height="12" fill="#e8b894"/>
+  <rect x="222" y="126" width="6" height="12" fill="#e8b894"/>
+
+  <!-- curly hair (volume + fringe + framing sides) -->
+  <g fill="#4a2f1d">
+    <rect x="180" y="84" width="42" height="6"/>
+    <rect x="162" y="90" width="72" height="6"/>
+    <rect x="156" y="96" width="84" height="12"/>
+    <rect x="162" y="108" width="60" height="12"/>
+    <rect x="150" y="108" width="18" height="48"/>
+    <rect x="222" y="108" width="18" height="48"/>
+    <rect x="144" y="120" width="6" height="30"/>
+    <rect x="240" y="120" width="6" height="30"/>
+    <rect x="150" y="156" width="12" height="12"/>
+    <rect x="228" y="156" width="12" height="12"/>
+    <rect x="168" y="120" width="6" height="36"/>
+    <rect x="216" y="120" width="6" height="36"/>
+  </g>
+  <g fill="#6b4226">
+    <rect x="186" y="90" width="6" height="6"/>
+    <rect x="210" y="90" width="6" height="6"/>
+    <rect x="162" y="120" width="6" height="6"/>
+    <rect x="228" y="120" width="6" height="6"/>
+    <rect x="198" y="108" width="6" height="6"/>
+  </g>
+
+  <!-- furrowed brows (angry slant) -->
+  <rect x="180" y="120" width="6" height="6" fill="#3a2415"/>
+  <rect x="186" y="126" width="6" height="6" fill="#3a2415"/>
+  <rect x="204" y="126" width="6" height="6" fill="#3a2415"/>
+  <rect x="210" y="120" width="6" height="6" fill="#3a2415"/>
+
+  <!-- eyes (whites + pupils + highlight, blink) -->
+  <g>
+    <animate attributeName="opacity" values="1;1;0;1;1" keyTimes="0;0.9;0.94;0.98;1" dur="3.6s" repeatCount="indefinite"/>
+    <rect x="180" y="132" width="12" height="12" fill="#f4f7fb"/>
+    <rect x="204" y="132" width="12" height="12" fill="#f4f7fb"/>
+    <rect x="183" y="135" width="6" height="9" fill="#3b2a23"/>
+    <rect x="207" y="135" width="6" height="9" fill="#3b2a23"/>
+    <rect x="183" y="135" width="3" height="3" fill="#ffffff"/>
+    <rect x="207" y="135" width="3" height="3" fill="#ffffff"/>
+  </g>
+  <!-- closed-eye lids (show during blink) -->
+  <g>
+    <animate attributeName="opacity" values="0;0;1;0;0" keyTimes="0;0.9;0.94;0.98;1" dur="3.6s" repeatCount="indefinite"/>
+    <rect x="180" y="138" width="12" height="3" fill="#3a2415"/>
+    <rect x="204" y="138" width="12" height="3" fill="#3a2415"/>
+  </g>
+
+  <!-- nose + blush -->
+  <rect x="195" y="138" width="6" height="6" fill="#d49b73"/>
+  <rect x="174" y="138" width="6" height="6" fill="#e89aa8"/>
+  <rect x="216" y="138" width="6" height="6" fill="#e89aa8"/>
+
+  <!-- worried mouth -->
+  <rect x="186" y="147" width="24" height="6" fill="#8a4a30"/>
+  <rect x="183" y="150" width="6" height="3" fill="#8a4a30"/>
+  <rect x="207" y="150" width="6" height="3" fill="#8a4a30"/>
+
+  <!-- sweat drop (blocky, falls) -->
+  <g>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 18;0 18" keyTimes="0;0.5;1" dur="2.8s" repeatCount="indefinite"/>
+    <rect x="228" y="120" width="6" height="6" fill="#7dd3fc">
+      <animate attributeName="opacity" values="0;1;0.9;0" keyTimes="0;0.15;0.5;0.55" dur="2.8s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="228" y="126" width="6" height="6" fill="#bae6fd">
+      <animate attributeName="opacity" values="0;1;0.9;0" keyTimes="0;0.15;0.5;0.55" dur="2.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- anime stress mark (throb) -->
+  <g fill="#ff5d6c">
+    <animateTransform attributeName="transform" type="scale" additive="sum" values="1;1.25;1" dur="1.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.55;1;0.55" dur="1.4s" repeatCount="indefinite"/>
+    <rect x="240" y="90" width="6" height="6"/>
+    <rect x="246" y="96" width="6" height="6"/>
+    <rect x="240" y="102" width="6" height="6"/>
+    <rect x="234" y="96" width="6" height="6"/>
+    <rect x="240" y="96" width="6" height="6" fill="#ff8a93"/>
+  </g>
+</svg>

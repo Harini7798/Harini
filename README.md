@@ -8,10 +8,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=720&height=90&lines=%F0%9F%91%8B+Hi%2C+I'm+Harini!;AI+Engineer)](https://github.com/Harini7798)
 
-<!-- ░░░ BANNER ░░░ -->
-<!-- Swap the line below for your own pixel art:  put the image in  assets/banner.png  then use: -->
-<!-- <img src="assets/banner.png" width="640" alt="banner" /> -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d1117,100:1f6feb&text=&section=header" width="100%" alt="banner" />
+<!-- ░░░ HERO — animated pixel scene (PNG embedded + motion overlays) ░░░ -->
+<img src="assets/coder-scene.svg" width="720" alt="pixel art: a curly-haired developer coding at night with coffee and a sleeping cat" />
 
 </div>
 
