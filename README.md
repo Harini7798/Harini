@@ -17,14 +17,13 @@
 ## 🚀 About Me
 
 ```text
-AI Engineer
+RAG bot alive now
 ```
 
 - 🤖  I build with machine learning and ship intelligent things.
 - 🎮  I like pixel art and arcade-style interfaces.
-- 🌱  Currently learning: <!-- fill in -->
-- 💬  Ask me about: <!-- fill in -->
-- 📫  Reach me at: <!-- your email / link -->
+- 🌱  Currently learning: ML/DL
+- 📫  Reach me at: aharini050805@gmail.com
 
 <!-- ░░░ CONTRIBUTION SNAKE ░░░ -->
 ## 🐍 Contribution Snake
