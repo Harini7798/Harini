@@ -39,7 +39,3 @@ RAG bot alive now
 </div>
 
 <!-- The snake stays blank until the GitHub Action runs once. See SETUP.md. -->
-
-<div align="center">
-<sub>⚡ built with the Konami code · ↑ ↑ ↓ ↓ ← → ← → B A</sub>
-</div>
